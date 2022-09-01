@@ -1,6 +1,6 @@
 
 
-###Ridhi Tamirasa's First CS193 Homework
+### Ridhi Tamirasa's First CS193 Homework
 ## My Favorite Things About CS 193 Are:
 - Learning how to use the terminal
 - Talking to my classmates
